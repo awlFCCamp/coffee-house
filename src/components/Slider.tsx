@@ -5,17 +5,17 @@ import Image from "next/image";
 const data = [
   {
     id: 1,
-    title: "always fresh & always crispy & always hot",
+    title: "Daily fresh made pastry",
     image: "/slide1.png",
   },
   {
     id: 2,
-    title: "we deliver your order wherever you are in NY",
+    title: "We deliver coffee, tea and pastry",
     image: "/slide2.png",
   },
   {
     id: 3,
-    title: "the best pizza to share with your family",
+    title: "Our pumkin spice lattee is to die for",
     image: "/slide3.jpg",
   },
 ];
